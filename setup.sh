@@ -62,6 +62,9 @@ case $1 in
   up)
     up
     ;;
+  config)
+    config
+    ;;
   down)
     down
     ;;

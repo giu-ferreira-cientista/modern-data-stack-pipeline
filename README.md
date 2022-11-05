@@ -49,36 +49,36 @@ Transformação:
 
 - No Dbt:
 
-    - Criação da Conta
-    - Conexão com o Github
-    - Criação do Dbt Project
-    - Criação do Profile de conexão com o snowflake
-    - Criação do Schema
-    - Criação dos Modelos Base
-    - Criação do Modelo Relacionado
-    - Visualização gráfica do modelo
-    - Teste de execução
-    - Commits, Branches, Pull Requests, Merges no Github
-    - Obtenção do link de conexão com o Airbyte
+    - Criação da Conta X
+    - Conexão com o Github X
+    - Criação do Dbt Project X
+    - Criação do Profile de conexão com o snowflake X
+    - Criação do Schema X
+    - Criação dos Modelos Base X
+    - Criação do Modelo Relacionado X
+    - Visualização gráfica do modelo X 
+    - Teste de execução X
+    - Commits, Branches, Pull Requests, Merges no Github X 
+    - Obtenção do link de conexão com o Airbyte X 
 
 
 Visualização:
 
 - No Metabase:
 
-    - Conectar Metabase com o Snowflake
-    - Criar uma Question
-    - Criar um Dashboard
-    - Adicionar uma Question
-    - Visualizar o Resultado
+    - Conectar Metabase com o Snowflake X
+    - Criar uma Question X 
+    - Criar um Dashboard X
+    - Adicionar uma Question X
+    - Visualizar o Resultado X 
 
 
 Orquestração:
 
 - No Airflow:
 
-    - Criar a dag
+    - Criar a dag X 
 
-    - Criar as conexões com o Airbyte através do script
+    - Criar as conexões com o Airbyte através do script X 
 
-    - Testar a execução do pipeline
+    - Testar a execução do pipeline  
